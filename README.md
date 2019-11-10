@@ -1,0 +1,2 @@
+# MyfirstMFC
+MyfirstMFCByBingo
